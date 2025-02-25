@@ -14,7 +14,7 @@ const data = {
       "position": "Soporte Nivel 1",
       "country": "Colombia",
       "status": "inactive",
-      "lastUpdate": ""
+      "lastUpdate": 1740298027523
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@ const data = {
       "position": "Gerente de Atención",
       "country": "México",
       "status": "inactive",
-      "lastUpdate": ""
+      "lastUpdate": 1740298027523
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@ const data = {
       "position": "Soporte Nivel 2",
       "country": "Argentina",
       "status": "inactive",
-      "lastUpdate": ""
+      "lastUpdate": 1740298027523
     },
     {
       "id": 4,
@@ -44,7 +44,7 @@ const data = {
       "position": "Líder de Soporte",
       "country": "España",
       "status": "inactive",
-      "lastUpdate": ""
+      "lastUpdate": 1740298027523
     },
     {
       "id": 5,
@@ -54,7 +54,7 @@ const data = {
       "position": "Soporte Técnico",
       "country": "Chile",
       "status": "inactive",
-      "lastUpdate": ""
+      "lastUpdate": 1740298027523
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@ const data = {
       "position": "Especialista en Atención",
       "country": "Perú",
       "status": "inactive",
-      "lastUpdate": ""
+      "lastUpdate": 1740298027523
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@ const data = {
       "position": "Supervisor de Contact Center",
       "country": "Brasil",
       "status": "inactive",
-      "lastUpdate": ""
+      "lastUpdate": 1740298027523
     },
     {
       "id": 8,
@@ -84,7 +84,7 @@ const data = {
       "position": "Ejecutiva de Cuentas",
       "country": "Ecuador",
       "status": "inactive",
-      "lastUpdate": ""
+      "lastUpdate": 1740298027523
     },
     {
       "id": 9,
@@ -94,7 +94,7 @@ const data = {
       "position": "Gerente Regional",
       "country": "Uruguay",
       "status": "inactive",
-      "lastUpdate": ""
+      "lastUpdate": 1740298027523
     },
     {
       "id": 10,
@@ -104,7 +104,7 @@ const data = {
       "position": "Agente Senior",
       "country": "Paraguay",
       "status": "active",
-      "lastUpdate": ""
+      "lastUpdate": 1740298027523
     }
   ],
   "customers": [
@@ -114,7 +114,7 @@ const data = {
       "logo": "https://robohash.org/empresa-a.png",
       "category": "Básico",
       "country": "Colombia",
-      "lastUpdate": "",
+      "lastUpdate": 1740298027523,
       "status": "in-progress"
     },
     {
@@ -132,7 +132,7 @@ const data = {
       "logo": "https://robohash.org/empresa-c.png",
       "category": "Premium",
       "country": "Argentina",
-      "lastUpdate": "",
+      "lastUpdate": 1740298027523,
       "status": "in-progress"
     },
     {
@@ -141,7 +141,7 @@ const data = {
       "logo": "https://robohash.org/empresa-d.png",
       "category": "Básico",
       "country": "España",
-      "lastUpdate": "",
+      "lastUpdate": 1740298027523,
       "status": "inactive"
     },
     {
@@ -150,7 +150,7 @@ const data = {
       "logo": "https://robohash.org/empresa-e.png",
       "category": "Pro",
       "country": "Chile",
-      "lastUpdate": "",
+      "lastUpdate": 1740298027523,
       "status": "inactive"
     },
     {
@@ -159,7 +159,7 @@ const data = {
       "logo": "https://robohash.org/empresa-f.png",
       "category": "Premium",
       "country": "Perú",
-      "lastUpdate": "",
+      "lastUpdate": 1740298027523,
       "status": "inactive"
     },
     {
@@ -168,7 +168,7 @@ const data = {
       "logo": "https://robohash.org/empresa-g.png",
       "category": "Básico",
       "country": "Brasil",
-      "lastUpdate": "",
+      "lastUpdate": 1740298027523,
       "status": "inactive"
     },
     {
@@ -177,7 +177,7 @@ const data = {
       "logo": "https://robohash.org/empresa-h.png",
       "category": "Pro",
       "country": "Ecuador",
-      "lastUpdate": "",
+      "lastUpdate": 1740298027523,
       "status": "inactive"
     },
     {
@@ -186,7 +186,7 @@ const data = {
       "logo": "https://robohash.org/empresa-i.png",
       "category": "Premium",
       "country": "Uruguay",
-      "lastUpdate": "",
+      "lastUpdate": 1740298027523,
       "status": "inactive"
     },
     {
@@ -195,7 +195,7 @@ const data = {
       "logo": "https://robohash.org/empresa-j.png",
       "category": "Básico",
       "country": "Paraguay",
-      "lastUpdate": "",
+      "lastUpdate": 1740298027523,
       "status": "inactive"
     }
   ]
